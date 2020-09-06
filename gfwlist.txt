@@ -50,6 +50,7 @@ var rules = [
   "@@|https:\/\/share.dmhy.org",
   "||dmm.co.jp",
   "|http:\/\/www.dmm.com\/netgame",
+  "|https:\/\/github.com",
   "||dnvod.tv",
   "||dvdpac.com",
   "||eesti.ee",
