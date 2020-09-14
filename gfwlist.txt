@@ -51,6 +51,7 @@ var rules = [
   "||dmm.co.jp",
   "|http:\/\/www.dmm.com\/netgame",
   "||https:\/\/github.com",
+  "||https:\/\/jsfiddle.net",
   "||https:\/\/raw.githubusercontent.com",
   "||dnvod.tv",
   "||dvdpac.com",
